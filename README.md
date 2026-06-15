@@ -61,4 +61,4 @@ An AI-powered web application built to accelerate the modernization of SAP ABAP 
 
 ## 📄 License
 
-MIT License
+Please read the LICENSE file.
