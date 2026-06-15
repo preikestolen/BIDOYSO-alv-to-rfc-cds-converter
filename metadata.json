@@ -1,0 +1,5 @@
+{
+  "name": "ALV to RFC Converter",
+  "description": "Convert SAP ABAP OO ALV code into RFC function modules for ABAP Cloud and Fiori apps.",
+  "requestFramePermissions": []
+}
