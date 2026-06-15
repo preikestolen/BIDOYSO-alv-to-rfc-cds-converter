@@ -1,0 +1,23 @@
+# Copyright and License Notice
+
+Copyright (c) 2026 Preikian. All rights reserved.
+
+### 1. No License Granted
+This software and all associated files (the "Software") are the exclusive property of the copyright holder.
+This repository does not grant any public license to use, modify, distribute, or sub-license the Software for any purpose, commercial or non-commercial.
+
+### 2. GitHub Terms of Service
+Consistent with GitHub's Terms of Service, you may view and "fork" this repository for your own personal use within the GitHub platform.
+However, forking does not imply a transfer of ownership or a license for use outside of the GitHub environment.
+
+### 3. Restrictions
+Specifically, you are prohibited from:
+* Redistributing the source code or binaries in any form.
+* Creating derivative works based on this Software.
+* Using this Software as a dependency in other projects.
+
+### 4. Contact
+For inquiries regarding commercial licensing or explicit permission for use, please contact the repository owner directly.
+
+---
+*UNLESS EXPRESSLY STATED OTHERWISE IN WRITING, THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.*
