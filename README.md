@@ -1,4 +1,4 @@
-# SAP ABAP ALV Converter (AI-Powered)
+# AI-Powered SAP ALV to RFC/CDS Converter
 
 An AI-powered web application built to accelerate the modernization of SAP ABAP code. It converts legacy ABAP ALV reports into modern SAP CDS Views or ABAP Cloud-compatible RFCs, with built-in support for S/4HANA "Clean Core" architecture.
 
